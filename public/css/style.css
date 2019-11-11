@@ -147,6 +147,7 @@ hr.soften {
 	background-image: url("/img/sunshinephp_header_bg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: cover;
 }
 .jumbotron h1 {
 	font-size: 80px;
